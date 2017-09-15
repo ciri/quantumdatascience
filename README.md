@@ -10,7 +10,7 @@ The field of Quantum Machine Learning is still quite scattered. The goal of this
 
 ### **Software**
 
-We use Python because it is the most popular language in use by data scientists today.
+We use Python because it is the most popular language in use by data scientists today. 
 
 ### TOC
 
