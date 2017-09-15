@@ -14,5 +14,4 @@ We use Python because it is the most popular language in use by data scientists 
 
 ### TOC
 
-&lt;!-- toc --&gt;
-
+<!-- toc -->
