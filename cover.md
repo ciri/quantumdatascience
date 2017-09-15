@@ -6,7 +6,7 @@ This book is intended to be a primer on quantum mechanics and data science for t
 
 **A collaborative book**
 
-The field of Quantum Machine Learning is still quite scattered. The goal of this book is to gather knowledge related to quantum data science in one place in a  collaborative way.
+The field of Quantum Machine Learning is still quite scattered. The goal of this book is to gather knowledge related to quantum data science in one place in a  collaborative way in order to provide a boost to the community.
 
 **Software**
 
