@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* [Readme](cover.md)
-* [Introduction](README.md)
+* [README](README.md)
+* [Introduction](cover.md)
 * [Data Science](data-science.md)
 * [Quantum Mechanics](chapter1.md)
 * [Quantum Computing](quantum-computing.md)
