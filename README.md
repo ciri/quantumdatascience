@@ -1,3 +1,8 @@
+---
+plugin:
+  - etoc
+---
+
 # Quantum Data Science
 
 ### **Intended audience**
