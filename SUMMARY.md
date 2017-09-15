@@ -10,7 +10,7 @@
 
 ## Methods
 
-* [Naive Bayes](methods/naive-bayes.md)
+* [Introduction: Naive Bayes](methods/naive-bayes.md)
 * Regression
 * [Classification](methods/support-vector-machine.md)
 
