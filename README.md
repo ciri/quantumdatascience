@@ -1,3 +1,12 @@
+---
+plugins:
+  - toc
+pluginsConfig:
+  toc:
+    addClass: true
+    className: toc
+---
+
 # Quantum Data Science
 
 **Intended audience**
@@ -11,4 +20,6 @@ The field of Quantum Machine Learning is still quite scattered. The goal of this
 **Software**
 
 We use Python because it is the most popular language in use by data scientists today.
+
+&lt;!-- toc --&gt;
 
