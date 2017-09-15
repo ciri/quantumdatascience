@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Cover](cover.md)
+* [Readme](cover.md)
 * [Introduction](README.md)
 * [Data Science](data-science.md)
 * [Quantum Mechanics](chapter1.md)
