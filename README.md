@@ -14,9 +14,9 @@ The field of Quantum Machine Learning is still quite scattered. The goal of this
 
 If you see potential chapters that this book would benefit from, feel free to start one. You are also welcome to make any minor or major change as you see fit including, but not limited to: fixing grammar or spelling errors, reviewing explanations or notations, adding suggestions, etc.
 
-All commits are welcome! If you are unfamiliar with Github, you can email me your contributions via: enric.junquedefortuny (at) nyu (dot edu.
-
+All commits are welcome! If you are unfamiliar with Github, you can email me your contributions via: enric.junquedefortuny \(at\) nyu \(dot edu\). You can also use gitbook instead if you prefer a WYSIWYG \(what you see is what you get\): https://github.com/ciri/quantumdatascience.
 
 ### **Software**
 
-We use Python because it is the most popular language in use by data scientists today. 
+We use Python because it is the most popular language in use by data scientists today.
+
